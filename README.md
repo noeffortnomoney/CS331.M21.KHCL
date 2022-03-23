@@ -13,9 +13,9 @@ Computer Vision Advance
 ## THÀNH VIÊN NHÓM
 |STT| MSSV      | Họ và Tên       |Chức Vụ    | Github                                                  | Email                   |
 |---|:---------:| ---------------:|----------:|--------------------------------------------------------:|-------------------------:
-| 1 | 19521676  | Trương Quốc Bình  |Nhóm trưởng|[noeffortnomoney](https://github.com/noeffortnomoney)  |19521270@gm.uit.edu.vn   |
-| 2 | 19521383  | Nguyễn Quan Huy |Thành viên |[]()            |19521622@gm.uit.edu.vn   |
-| 3 | 19521699  | Nguyễn Hữu Hưng  |Thành viên |[]()        |19521571@gm.uit.edu.vn   |
+| 1 | 19521270  | Trương Quốc Bình  |Nhóm trưởng|[noeffortnomoney](https://github.com/noeffortnomoney)  |19521270@gm.uit.edu.vn   |
+| 2 | 19521622  | Nguyễn Quan Huy |Thành viên |[]()            |19521622@gm.uit.edu.vn   |
+| 3 | 19521571  | Nguyễn Hữu Hưng  |Thành viên |[]()        |19521571@gm.uit.edu.vn   |
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Thị giác máy tính nâng cao
