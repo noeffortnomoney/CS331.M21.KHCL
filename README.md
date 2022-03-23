@@ -14,22 +14,22 @@ Computer Vision Advance
 |STT| MSSV      | Họ và Tên       |Chức Vụ    | Github                                                  | Email                   |
 |---|:---------:| ---------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1 | 19521676  | Trương Quốc Bình  |Nhóm trưởng|[noeffortnomoney](https://github.com/noeffortnomoney)  |19521270@gm.uit.edu.vn   |
-| 2 | 19521383  | Lê Đình Đức |Thành viên |[]()            |19521372@gm.uit.edu.vn   |
-| 3 | 19521699  | Nguyễn Viết Trường   |Thành viên |[]()        |19522443@gm.uit.edu.vn   |
+| 2 | 19521383  | Nguyễn Quan Huy |Thành viên |[]()            |19521622@gm.uit.edu.vn   |
+| 3 | 19521699  | Nguyễn Hữu Hưng  |Thành viên |[]()        |19521571@gm.uit.edu.vn   |
 
 ## GIỚI THIỆU MÔN HỌC
-* **Tên môn học:** Phát triển ứng dụng Web
-* **Mã môn học:** IS207
-* **Mã lớp:** IS207.M22.TMCL
+* **Tên môn học:** Thị giác máy tính nâng cao
+* **Mã môn học:** CS331
+* **Mã lớp:** CS331.M21.KHCL
 * **Năm học:** HK2 (2021 - 2022)
-* **Giảng viên**: ThS.Mai Xuân Hùng
+* **Giảng viên**: TS. Nguyễn Vinh Tiệp
 
 ## THỰC HÀNH
 
 
 ## ĐỒ ÁN CUỐI KÌ
 
-<p align='center'><img style="height: 800px" src="https://github.com/ducducqn123/Website-Selling-Food/blob/ce4ab91b045d777d82beee1935e5df8eed736797/demo.png"></p>
+
 
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2022 - Trương Quốc Bình`
