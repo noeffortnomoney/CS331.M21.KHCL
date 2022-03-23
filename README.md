@@ -8,7 +8,7 @@ Computer Vision Advance
   </a>
 </p>
 
-<h1 align="center"><b>PHÁT TRIỂN ỨNG DỤNG WEB</b></h>
+<h1 align="center"><b>THỊ GIÁC MÁY TÍNH NÂNG CAO</b></h>
 
 ## THÀNH VIÊN NHÓM
 |STT| MSSV      | Họ và Tên       |Chức Vụ    | Github                                                  | Email                   |
